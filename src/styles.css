@@ -1,1 +1,23 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* Your additional custom styles here */
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Josefin+Sans&family=Tilt+Prism&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bricolage+Grotesque:opsz@10..48&family=Tilt+Prism&display=swap');
+
+
+h1{
+    font-family: 'Tilt Prism', cursive;
+}
+p{
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h3{
+
+}
